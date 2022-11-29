@@ -1,0 +1,13 @@
+{"url": "/user/register", "params": "username=小明，passwd=123"}
+
+{
+    "code": "1",
+    "msg": "注册成功",
+    "data": null
+}
+
+{
+    "code": "0",
+    "msg": "账户名已存在",
+    "data": null
+}

@@ -1,0 +1,38 @@
+{"url": "/singer/all", "params":"currentPage=1  pageSize=1000",}
+
+
+{
+    "code": "1",
+    "msg": null,
+    "data": {
+        "data": [
+            {
+                "sid": "1",
+                "singerName": "q",
+                "alias": "qq",
+                "info": "",
+                "deleted": "正常",
+                "image": "http://192.168.31.218:8080/api/image/download/default.png"
+            },
+            {
+                "sid": "2",
+                "singerName": "张靓颖",
+                "alias": null,
+                "info": "",
+                "deleted": "正常",
+                "image": "http://192.168.31.218:8080/api/image/download/e4a495dc3513479589efd1aeb7fe26f3_张靓颖.jpg"
+            },
+            {
+                "sid": "3",
+                "singerName": "申升勋",
+                "alias": null,
+                "info": "",
+                "deleted": "正常",
+                "image": "http://192.168.31.218:8080/api/image/download/7f80e15c5fa84496b7897a93852db3c3_申升勋.jpg"
+            }
+        ],
+        "totalPage": 1,
+        "pageSize": 1000,
+        "currentPage": 1
+    }
+}

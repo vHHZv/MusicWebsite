@@ -1,0 +1,13 @@
+{
+  "注意":
+  {
+    "":"url: /user/clearCollectSong， params：user=用户id，song=单曲id，使用request.delete()"
+  },
+  "格式":
+  {
+    "code": "1",
+    "msg": "已取消收藏",
+    "data": null
+  }
+}
+

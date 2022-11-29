@@ -1,0 +1,20 @@
+{
+  "使用request.put('/user/modifyUser', formForSend)发送，其中formForSend是下面这个对象":
+  {
+    "uid": "2",
+    "username": "b",
+    "passwd": "a",
+    "gender": "男",
+    "phoneNum": "123",
+    "email": "456",
+    "birthday": "",
+    "info": "",
+    "image": "http://192.168.183.19:8080/api/image/download/default.png"
+  },
+  "格式":
+  {
+    "code": "1",
+    "msg": "已成功修改用户信息",
+    "data": null
+  }
+}

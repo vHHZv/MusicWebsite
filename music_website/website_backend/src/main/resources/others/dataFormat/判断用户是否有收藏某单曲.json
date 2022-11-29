@@ -1,0 +1,15 @@
+{
+  "注意": "url: /user/isCollected， params：user=用户id，song=单曲id",
+  "格式":
+  {
+    "code": "1",
+    "msg": null,
+    "data": true
+  },
+  "1表示有收藏，0表示没有收藏":
+  {
+    "code": "0",
+    "msg": null,
+    "data": true
+  }
+}

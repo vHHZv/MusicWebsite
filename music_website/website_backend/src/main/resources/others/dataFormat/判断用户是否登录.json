@@ -1,0 +1,13 @@
+{"url":"/user/isLogin", "!!": "1是成功，0是失败"}
+
+{
+    "code": "1",
+    "msg": null,
+    "data": null
+}
+
+{
+    "code": "0",
+    "msg": null,
+    "data": null
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/website_backend/website_backend.iml" filepath="$PROJECT_DIR$/website_backend/website_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/website_front_end/website_front_end.iml" filepath="$PROJECT_DIR$/website_front_end/website_front_end.iml" />
+    </modules>
+  </component>
+</project>
